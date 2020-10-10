@@ -3,7 +3,7 @@ package com.pbo;
 import java.util.*;
 import java.lang.String;
 
-public class fungsiRekursif {
+public class rekursifBercabang {
 
     public static void main (String[] args){
 
